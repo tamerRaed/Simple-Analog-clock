@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hour_height">220dp</dimen>
+    <dimen name="minute_height">300dp</dimen>
+    <dimen name="second_height">325dp</dimen>
+</resources>
